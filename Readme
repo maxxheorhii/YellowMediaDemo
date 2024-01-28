@@ -1,0 +1,6 @@
+Current codebase serves as demo for Cypress + JS AQA project.
+
+To install dependencies use: npm run install-dependencies
+To start Cypress UI and be able to select tests to run use: npm run e2e
+To start Cypress headless and be able to select tests to run use: npm run e2e-headless
+To see example of run results check 'test-runs' folder
